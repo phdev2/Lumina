@@ -11,9 +11,11 @@
 Lumina é um utilitário leve e direto ao ponto que roda na bandeja do sistema. O objetivo principal é permitir o ajuste rápido do brilho e a calibração avançada de cores do monitor via software, dispensando a necessidade de utilizar os botões físicos da tela.
 
 <div align="center">
-  <img src="https://i.ibb.co/7tf1zv4K/image.png" alt="Screenshot do Lumina 1" width="600"/><br/><br/>
-  <img src="https://i.ibb.co/rRhYvZFG/image.png" alt="Screenshot do Lumina 2" width="600"/><br/><br/>
-  <img src="https://i.ibb.co/gb44jJkC/image.png" alt="Screenshot do Lumina 3" width="600"/>
+  <img src="https://i.ibb.co/7tf1zv4K/image.png" alt="Painel Principal" width="260"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/rRhYvZFG/image.png" alt="Configurações Avançadas" width="260"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/gb44jJkC/image.png" alt="Seletor de Cores" width="260"/>
 </div>
 
 ## Principais Recursos
