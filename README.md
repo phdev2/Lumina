@@ -9,7 +9,7 @@
   
   <p align="center">
     <a href="https://github.com/phdev2/Lumina/releases"><img src="https://img.shields.io/badge/Plataforma-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform" /></a>
-    <a href="https://github.com/phdev2/Lumina/releases"><img src="https://img.shields.io/github/downloads/phdev2/Lumina/total?style=for-the-badge&color=2EA043" alt="Downloads" /></a>
+    <a href="https://github.com/phdev2/Lumina/releases"><img src="https://img.shields.io/github/downloads/phdev2/Lumina/total?style=for-the-badge&color=2EA043&cache=bust1" alt="Downloads" /></a>
     <img src="https://img.shields.io/badge/.NET_8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
   </p>
   
