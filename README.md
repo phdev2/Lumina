@@ -15,9 +15,13 @@
   
   <br/>
 
-  <img src="https://i.ibb.co/7tf1zv4K/image.png" alt="Painel Principal" width="260" style="margin: 0 10px;"/>
-  <img src="https://i.ibb.co/rRhYvZFG/image.png" alt="Configurações Avançadas" width="260" style="margin: 0 10px;"/>
-  <img src="https://i.ibb.co/gb44jJkC/image.png" alt="Seletor de Cores" width="260" style="margin: 0 10px;"/>
+  <p align="center">
+    <img src="https://i.ibb.co/7tf1zv4K/image.png" alt="Painel Principal" width="250"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://i.ibb.co/rRhYvZFG/image.png" alt="Configurações Avançadas" width="250"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://i.ibb.co/gb44jJkC/image.png" alt="Seletor de Cores" width="250"/>
+  </p>
 
   <br/><br/>
 </div>
